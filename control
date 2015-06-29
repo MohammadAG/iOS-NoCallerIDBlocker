@@ -1,0 +1,9 @@
+Package: com.mohammadag.nocalleridblocker
+Name: No Caller ID Blocker
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Block calls from "No Caller ID" numbers
+Maintainer: Mohammad Abu-Garbeyyeh
+Author: Mohammad Abu-Garbeyyeh
+Section: Tweaks
